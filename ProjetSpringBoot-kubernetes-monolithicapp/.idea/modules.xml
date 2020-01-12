@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/projet-spring-boot.iml" filepath="$PROJECT_DIR$/.idea/projet-spring-boot.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/.idea/ProjetSpringBoot-kubernetes.iml" filepath="$PROJECT_DIR$/.idea/ProjetSpringBoot-kubernetes.iml" />
->>>>>>> 6e626ad8dee45271355f9c194796bb2595148c04
     </modules>
   </component>
 </project>
